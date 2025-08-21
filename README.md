@@ -11,20 +11,6 @@ Highlights:
 - ⭐ At the end Deployment like a pro for FREE!
 - ⏳ And much more!
 
-### Setup .env file
-
-```js
-MONGODB_URI=...
-PORT=5001
-JWT_SECRET=...
-
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
-
-NODE_ENV=development
-```
-
 ### Build the app
 
 ```shell
@@ -36,3 +22,15 @@ npm run build
 ```shell
 npm start
 ```
+
+### Demo account
+
+Để trải nghiệm **Chat App Realtime** mà không cần đăng ký, bạn có thể dùng ngay 2 tài khoản demo có sẵn:
+
+- **Account 1**
+  - Email: `htrng416@gmail.com`
+  - Password: `hung02022002`
+- **Account 2**
+  - Email: `huubao2002@gmail.com`
+  - Password: `hung02022002`
+    👉 Bạn có thể mở 2 trình duyệt khác nhau (hoặc chế độ ẩn danh) và đăng nhập bằng 2 tài khoản này để chat qua lại realtime.
