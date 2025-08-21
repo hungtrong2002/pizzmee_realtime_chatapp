@@ -155,9 +155,9 @@ const SignUpPage = () => {
 
           <div className="text-center">
             <p className="text-base-content/60">
-              Already have an account?{" "}
+              Bạn đã là thành viên của cộng đồng ?{" "}
               <Link to="/login" className="link link-primary">
-                Sign in
+                Đăng nhập
               </Link>
             </p>
           </div>
