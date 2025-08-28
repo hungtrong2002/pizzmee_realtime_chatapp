@@ -24,6 +24,7 @@ npm start
 ```
 
 ### Demo account
+https://pizzmee-realtime-chatapp.onrender.com/login
 
 Để trải nghiệm **Chat App Realtime** mà không cần đăng ký, bạn có thể dùng ngay 2 tài khoản demo có sẵn:
 
